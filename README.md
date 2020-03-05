@@ -1,4 +1,4 @@
-Android Camera2Basic Sample (Kotlin)
+Adapted from the Android Camera2Basic Sample (Kotlin)
 ====================================
 
 This sample demonstrates how to use basic functionalities of Camera2
@@ -60,12 +60,6 @@ Support
 
 - Google+ Community: https://plus.google.com/communities/105153134372062985968
 - Stack Overflow: http://stackoverflow.com/questions/tagged/android
-
-If you've found an error in this sample, please file an issue:
-https://github.com/googlesamples/android-Camera2Basic
-
-Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
 
 License
 -------

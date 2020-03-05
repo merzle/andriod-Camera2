@@ -1,0 +1,31 @@
+#Internal package file, do not edit.
+#Tue Feb 25 22:17:25 CET 2020
+2.base=C\:\\Users\\Lasse\\AndroidStudioProjects\\kotlinApp\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+5.set=ASSET
+0.path=classes.dex
+2.baseType=DIRECTORY
+3.base=C\:\\Users\\Lasse\\AndroidStudioProjects\\kotlinApp\\Application\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+2.set=DEX
+1.path=classes.dex
+4.base=C\:\\Users\\Lasse\\AndroidStudioProjects\\kotlinApp\\Application\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+count=7
+5.baseType=DIRECTORY
+2.path=classes.dex
+5.base=C\:\\Users\\Lasse\\AndroidStudioProjects\\kotlinApp\\Application\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+4.set=ASSET
+3.path=camera.frag.glsl
+6.base=C\:\\Users\\Lasse\\AndroidStudioProjects\\kotlinApp\\Application\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+3.baseType=DIRECTORY
+1.set=DEX
+4.path=camera.vert.glsl
+6.set=ASSET
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=touchcolor.frag.glsl
+0.base=C\:\\Users\\Lasse\\AndroidStudioProjects\\kotlinApp\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.baseType=DIRECTORY
+3.set=ASSET
+6.path=touchcolor.vert.glsl
+1.base=C\:\\Users\\Lasse\\AndroidStudioProjects\\kotlinApp\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+4.baseType=DIRECTORY
+0.set=DEX
